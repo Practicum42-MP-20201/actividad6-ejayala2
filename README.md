@@ -12,8 +12,9 @@ Insertamos la captura de la planificación semana 13
 
 ## Con título indicamos: Planificación semana 14: 13 al 19 de julio 2020
 Insertamos la captura de la planificación semana 14
+![alt text](https://github.com/Practicum42-MP-20201/actividad6-ejayala2/blob/master/Semana%20del%2013%20al%2019%20Julio.jpg)
 * **Hito más importante de la semana**: Validación del modelo ABC / Exposición del trabajo al tribunal
-* **Actividades logradas**: 
+* **Actividades logradas**: Revisión de Herramientas SCM.
 
 Y así seguiremos llenando hasta la semana 16.
 Exitos! 
